@@ -1,5 +1,5 @@
 import React from 'react';
-import { Calculator, Shield, BarChart4, TrendingUp, ZapIcon, LineChart, Clock, ArrowRightLeft } from 'lucide-react';
+import { Calculator, Shield, BarChart4, TrendingUp, ZapIcon, LineChart, ArrowRightLeft } from 'lucide-react';
 
 const features = [
   {

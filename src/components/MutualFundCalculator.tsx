@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import RangeInput from './RangeInput';
 import { calculateMutualFund, formatCurrency } from '../utils/calculatorUtils';
 import { MutualFundCalculatorInputs, CalculationResult } from '../types/calculator';
